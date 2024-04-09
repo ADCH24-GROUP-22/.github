@@ -1,5 +1,12 @@
 # ADCH24-GROUP-22
 
+## About
+
+A team of designers, developers and  project managers working towards servicing
+
+## project
+
+
 ## MEMBERS
 
 - [Daniel Nzau](https://github.com/Bishop-Code-dev)

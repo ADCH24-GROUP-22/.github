@@ -6,6 +6,7 @@ A team of designers, developers and  project managers working towards servicing
 
 ## project
 
+currently working on an online  RSVP service [**WILL BE THERE**](https://github.com/ADCH24-GROUP-22/WILL-BE-THERE)
 
 ## MEMBERS
 

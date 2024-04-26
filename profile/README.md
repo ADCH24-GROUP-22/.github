@@ -25,7 +25,7 @@ Meet the talented individuals behind WILL BE THERE:
 ## 🛠️ Technologies Used
 
 We've utilized cutting-edge technologies to bring WILL BE THERE to life:
-- **Frontend**: TypeScript
+- **Frontend**: TypeScript & TailwindCSS
 - **Backend**: Django
 
 ## 📋 Getting Started

@@ -17,7 +17,7 @@ At ADCH24-GROUP-22, we're passionate about creating innovative solutions to simp
 
 Meet the talented individuals behind WILL BE THERE:
 - 👨 [Daniel Nzau](https://github.com/orgs/ADCH24-GROUP-22/people/Bishop-Code-dev)
-- 👨 Mahmud Enesi
+- 👨 [Mahmud Enesi](https://github.com/orgs/ADCH24-GROUP-22/people/Mahmud1087)
 - 👨 Samuel
 - 👨 Abraham John
 - 👩 Winifred Imade

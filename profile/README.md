@@ -20,8 +20,7 @@ Meet the talented individuals behind WILL BE THERE:
 - 👨 [Mahmud Enesi](https://github.com/orgs/ADCH24-GROUP-22/people/Mahmud1087)
 - 👨 [Samuel](https://github.com/orgs/ADCH24-GROUP-22/people/dcyberprince)
 - 👨 [Abraham John](https://github.com/orgs/ADCH24-GROUP-22/Jabrahamjohn)
-- 👩 Winifred Imade
-- 👨 Graham Olusiekwin
+- 👨 [Graham Olusiekwin](https://github.com/orgs/ADCH24-GROUP-22/olusiekwin)
 
 ## 🛠️ Technologies Used
 

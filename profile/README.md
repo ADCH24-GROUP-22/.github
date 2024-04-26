@@ -16,11 +16,11 @@ At ADCH24-GROUP-22, we're passionate about creating innovative solutions to simp
 ## 👨‍💻 Meet the Team
 
 Meet the talented individuals behind WILL BE THERE:
-- 👨 [Daniel Nzau](https://github.com/orgs/ADCH24-GROUP-22/people/Bishop-Code-dev)
-- 👨 [Mahmud Enesi](https://github.com/orgs/ADCH24-GROUP-22/people/Mahmud1087)
-- 👨 [Samuel](https://github.com/orgs/ADCH24-GROUP-22/people/dcyberprince)
-- 👨 [Abraham John](https://github.com/orgs/ADCH24-GROUP-22/Jabrahamjohn)
-- 👨 [Graham Olusiekwin](https://github.com/orgs/ADCH24-GROUP-22/olusiekwin)
+- 👨 [Daniel Nzau](https://github.com/Bishop-Code-dev)
+- 👨 [Mahmud Enesi](https://github.com/Mahmud1087)
+- 👨 [Samuel](https://github.com/dcyberprince)
+- 👨 [Abraham John](https://github.com/Jabrahamjohn)
+- 👨 [Graham Olusiekwin](https://github.com/olusiekwin)
 
 ## 🛠️ Technologies Used
 
